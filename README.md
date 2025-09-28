@@ -1,7 +1,8 @@
 # modern-picasso
 ## Overview
 Python program to draw using your camera and fingers!!
-This is a simple real-time air drawing application using Python, OpenCV and MediaPipe, for everyone who doesn't have a notebook, yet have a pc with a webcam somehow
+This is a simple real-time air drawing application using Python, OpenCV and MediaPipe, for everyone who doesn't have a notebook, yet have a pc with a webcam somehow.
+You can draw using your finger and also save your masterpiece as an image.
 
 ## Features
 - Real-time hand and finger tracking
