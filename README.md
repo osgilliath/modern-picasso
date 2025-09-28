@@ -11,18 +11,18 @@ This is a simple real-time air drawing application using Python, OpenCV and Medi
 
 ## Pre-requisites
 * These python libraries must be installed to run this program:
-  - 'opencv-python'
-  - 'numpy'
-  - 'mediapipe'
+  - `opencv-python`
+  - `numpy`
+  - `mediapipe`
 * Webcam
 * Hands (with atleast one finger)
 * Brain
 
 ## Usage
 - Installation of required packages using pip:
-  'pip install opencv-python mediapipe numpy'
+  `pip install opencv-python mediapipe numpy`
   or
-  'pip3 install opencv-python mediapipe numpy'
+  `pip3 install opencv-python mediapipe numpy`
 - Run picasso.py
 - Press 'q' to quit
 
